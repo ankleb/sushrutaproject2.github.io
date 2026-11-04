@@ -28,7 +28,7 @@ an insertion in the TEI code of the draft transcript). This passage does not fit
 
 ## Conclusion
 
-It is clear that Claude has something to offer; its edition was better than Saktumiva’s mechanical collation. When it can do OCR of the manuscripts, it may improve further on its current edition. Nonetheless, its present effort resembles that of Housman’s donkey-editor, who, stuck between two bundles of hay, escapes the paralysis by uncritically choosing one bundle, arbitrarily called the “best,” which in this case was the oldest manuscript, K {% cite hous-1937 -l xxxi  hous-1921 %}.  
+It is clear that Claude has something to offer; its edition was better than Saktumiva’s mechanical collation. When it can do OCR of the manuscripts, it may improve further on its current edition. Nonetheless, its present effort resembles that of Housman’s donkey-editor, who, stuck between two bundles of hay, escapes the paralysis by uncritically choosing one bundle, arbitrarily called the “best,” which in this case was the oldest manuscript, K {% cite hous-1937 -l xxxi %}.  
 
 ### References
 
