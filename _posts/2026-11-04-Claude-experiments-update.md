@@ -2,12 +2,12 @@
 layout: post
 title: 'An Update to the Blog Post “Experiments with Claude” (17 July 2026)'
 date: 2026-11-04
+author: Jason Birch
 description: Jason Birch compares Claude’s machine-assisted edition of Sūtrasthāna 6 with his own critical edition
 tags: SuśrutaProject AI Claude
 ---
 
-On 17 July 2026, Dominik Wujastyk posted [Experiments with
-Claude](https://sushrutaproject2.github.io/blog/2026/Claude-experiments/) on the Project’s blog,
+On 17 July 2026, Dominik Wujastyk posted [Experiments with Claude](https://sushrutaproject2.github.io/blog/2026/Claude-experiments/) on the Project’s blog,
 reporting the preliminary results of an experiment in using Claude to edit *Suśrutasaṃhitā*,
 Sūtrasthāna 6 (*Ṛtucaryā*). He asked Claude to study 23 chapters critically edited by the Suśruta
 team, alongside the witnesses on which they are based, to derive a set of rules or patterns capturing their editorial practices, and then to apply those rules to Saktumiva's mechanical collation of chapter 1.6. The results were posted [here](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/Claude/provisional-edition_sutrasthana-06_machine-assisted.xml). 
