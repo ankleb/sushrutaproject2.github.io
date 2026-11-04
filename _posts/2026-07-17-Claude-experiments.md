@@ -23,6 +23,6 @@ The preliminary results of Claude's output for Suśrutasaṃhitā, Sūtrasthāna
 
 You can compare this with the "raw" collation in the online text of Sūtrasthāna 1-31:
 
-- [https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/01-su.su-1-31/provisional-edition_sutrasthana-1-31.xml](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/01-su.su-1-31/provisional-edition_sutrasthana-1-31.xml)
+- [Sūtrathāna 1-31 before editing](https://saktumiva.org/wiki/wujastyk/susrutasamhita/01-su.su-1-31/provisional-edition_sutrasthana-1-31?upama_scroll=SS.1.6.1&upama_ver=if9a8d15ia&sidebar=closed)
 
 This is just the start of exploring whether AI can do serious critical editing work that will help with Sanskrit manuscript traditions where there are very large texts, very high numbers of manuscripts, or both.
