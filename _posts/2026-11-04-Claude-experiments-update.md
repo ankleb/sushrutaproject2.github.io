@@ -22,7 +22,7 @@ edition. He has recently compared his draft edition of the first 20 passages wit
 3. Claude often uncritically favoured K (perhaps because it was told that K is the most important witness). As a result, it adopted incorrect readings of K. In quite a few instances, these incorrect readings were errors in the draft transcript, which Claude failed to identify. For example, it adopted *triṃśatmuhūrttam* (instead of *triṃśanmuhūrttam*), *evauṣadhyau grīṣmaniḥsārā … bhavaty* (instead of *evauṣadhyo grīṣme … bhavanty*) and *śleṣmikāṇāṃ* (instead of *ślaiṣmikāṇān*). Further instances are noted below.
 
 4. Claude included an additional passage in K that is not part of the original work and is marked as
-an insertion in the TEI code of the draft transcript). This passage does not fit the syntax of the sentence into which it was inserted. It is a clear example of Claude uncritically accepting the reading of K.
+an insertion in the TEI code of the draft transcript. This passage does not fit the syntax of the sentence into which it was inserted. It is a clear example of Claude uncritically accepting the reading of K.
 
 5. Other problems include incorrect word division (e.g., *dvimāsike naivaṃ* instead of *dvimāsikenaivaṃ*), unnecessary footnotes, and incorrect punctuation of the edited text (although punctuation may not have been explicitly mentioned in the prompt).
 
