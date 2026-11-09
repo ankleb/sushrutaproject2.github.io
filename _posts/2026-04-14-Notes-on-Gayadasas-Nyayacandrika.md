@@ -19,6 +19,7 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
 
   Diplomatic transcription of this manuscript has begun, and can be viewed:
 
+  - [here for 1.1](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/anup-4389_nyayacandrika_sutrasthana-1.xml)
   - [here for 1.2](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/anup-4389_nyayacandrika_sutrasthana-2.xml)
   - [here for 1.6](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/anup-4389_nyayacandrika_sutrasthana-6.xml?facs=39)
 
@@ -30,6 +31,11 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
 ### _Śārīrasthāna_
 
 - [MS Jaipur RORI 6838](https://panditproject.org/entity/108061/manuscript). This MS was commissioned in Ahmedabad in 1468 CE by the same person as MS Bikaner RORI 5157 (_Kalpasthāna_) below. The scribe may be different. The manuscript includes both commentary and mūla.
+
+  Diplomatic transcription of this manuscript has begun, and can be viewed:
+
+  - [here for parts of 3.4](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/rori-jaipur-6838_nyayacandrika_sarirasthana-4.xml?facs=2)
+
 - MS [Cambridge UL add. 2491](https://cudl.lib.cam.ac.uk/view/MS-ADD-02491/1)
 
   Diplomatic transcription of this manuscript has begun, and can be viewed:
@@ -46,6 +52,12 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
   Diplomatic transcription of this manuscript has begun, and can be viewed:
 
   - [here for 5.1](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/rori-bikaner-5157_kalpasthana-1?facs=3)
+
+### Saktumiva 1
+
+The diplomatic transcription files are also available for study using Saktumiva 1
+
+- [Gayadāsa start page at Saktumiva 1](https://vaikuntha.ca/doku.php?id=wiki:susrutaproject:gayadasa:start)
 
 ## Published portion
 
