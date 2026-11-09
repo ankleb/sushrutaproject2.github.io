@@ -14,3 +14,4 @@ vendor
 _sass/._layout.scss.swp
 *.bak
 _pages/kkk.zip
+.DS_Store
